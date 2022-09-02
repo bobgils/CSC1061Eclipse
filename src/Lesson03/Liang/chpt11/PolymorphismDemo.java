@@ -1,4 +1,4 @@
-package Lesson3.Liang.chpt11;
+package Lesson03.Liang.chpt11;
 
 public class PolymorphismDemo {
   /** Main method */
