@@ -1,6 +1,3 @@
-
-//package edu.frontrange.csc160.a6;
-
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

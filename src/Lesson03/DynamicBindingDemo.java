@@ -1,6 +1,5 @@
 package Lesson03;
 
-import Lesson03.Liang.chpt11.*;
 
 public class DynamicBindingDemo {
   public static void main(String[] args) {
